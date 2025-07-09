@@ -36,7 +36,7 @@ mini-nms/
 ### 1. Clone the repo
 
 
-git clone https://github.com/your-username/mini-nms.git
+git clone https://github.com/pedram1989/mini-nms.git
 cd mini-nms
 
 ### 2. Install dependencies
@@ -106,7 +106,7 @@ mini-nms/
 ## ⚙️ نحوه استفاده:
 1. مخزن را کلون کنید:
 ```bash
-git clone https://github.com/yourusername/mini-nms.git
+git clone https://github.com/pedram1989/mini-nms.git
 cd mini-nms
 ```
 
